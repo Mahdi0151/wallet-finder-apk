@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.5-blue.svg" alt="Version 3.5">
   <img src="https://img.shields.io/badge/platform-Android-brightgreen.svg" alt="Platform">
-  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
+  <img src="https://img.shields.io/badge/" alt="mahdi">
   <img src="https://img.shields.io/badge/API-21%2B-orange.svg" alt="Min API">
 </p>
 
